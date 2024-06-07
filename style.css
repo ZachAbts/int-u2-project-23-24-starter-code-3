@@ -1,6 +1,32 @@
 /* The code below makes the background of the header black and the font color of the title white. Change this to match what you want for your website. */
 header {
-    background-color: black;
-    color: white;
-    padding: 128px 16px;
+    background-color: rgb(104, 5, 5);
+    color: black;
+    padding: 0px 16px;
 }
+h1 {
+font-family: Franklin Gothic Medium;
+text-align: left;
+}
+.slip {
+    float:center;
+    width:35%;
+}
+.off {
+    float:left;
+
+}
+.soad {
+    float:right;
+    
+}
+.que {
+    float:right;
+    
+}
+img {
+    display:block;
+    border-radius: 10px;
+    max-width: 40%;
+    height:auto;
+}   
