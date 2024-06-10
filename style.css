@@ -1,6 +1,6 @@
 /* The code below makes the background of the header black and the font color of the title white. Change this to match what you want for your website. */
 header {
-    background-color: rgb(104, 5, 5);
+    background-color: rgb(255, 8, 8);
     color: black;
     padding: 0px 16px;
 }
@@ -28,7 +28,7 @@ img {
     height:auto;
 }   
 .band {
-    background-color:rgb(231, 24, 24); 
+    background-color:rgb(255, 6, 6); 
 }
 .genre {
     word-spacing: 100px;
