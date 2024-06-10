@@ -11,6 +11,7 @@ text-align: left;
 .slip {
     float:center;
     width:35%;
+    
 }
 .off {
     float:left;
@@ -20,13 +21,21 @@ text-align: left;
     float:right;
     
 }
-.que {
-    float:right;
-    
-}
 img {
     display:block;
     border-radius: 10px;
     max-width: 40%;
     height:auto;
 }   
+.band {
+    background-color:rgb(231, 24, 24); 
+}
+.genre {
+    word-spacing: 100px;
+    font-family:Impact;
+    font-size: 16px
+}
+p {
+    font-family:Franklin Gothic Medium;
+    font-weight:bold;
+}
